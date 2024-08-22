@@ -7,27 +7,15 @@ Key features include support for multiple concurrent clients, message transfer, 
 
 ## 💡 Features
 
-- User Authentication & Authorization.
-- Create, Edit and Manage Blog Posts.
-- Responsive Design.
-- Secure JWT-Based Authentication.
-- Users can Comment on Blog Posts.
+- Real-Time Communication: Enables seamless real-time messaging between multiple clients.
+- Multi-Client Support: Allows multiple clients to connect and communicate simultaneously.
+- Robust Error Handling: Maintains stable performance across various network conditions.
 
 ## ⚙️ Technologies Used
 
-- **Node.js**: Backend framework
-- **Express.js**: Web framework for Node.js
-- **EJS**: Templating engine
-- **MongoDB**: Database
-- **JWT**: Authentication
-
-## 📸 Screenshots
-
-<img src="https://github.com/abhay08-k09/Blogify/blob/main/Demo/1.png" width="90%" />
-
-<img src="https://github.com/abhay08-k09/Blogify/blob/main/Demo/2.png" width="90%" />
-
-<img src="https://github.com/abhay08-k09/Blogify/blob/main/Demo/3.png" width="90%" />
-
+- **C++**: Core programming language for building the application.
+- **Socket Programming**: Foundation for establishing and managing network connections.
+- **TCP/IP Protocol**: Ensures reliable and ordered delivery of messages between clients.
+- **Multi-threading**: Manages multiple clients concurrently, ensuring smooth communication.
 
 Feel free to reach out if you have any queries or need assistance with the project.
