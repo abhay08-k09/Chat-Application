@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a robust and scalable End-to-End Chat Application developed using C++ and Pocket Programming. It facilitates real-time communication between clients in a networked environment. 
+This project is a robust and scalable End-to-End Chat Application developed using C++ and Socket Programming. It facilitates real-time communication between clients in a networked environment. 
 Key features include support for multiple concurrent clients, message transfer, and error handling to ensure stable performance across diverse network conditions. This project demonstrates proficiency in low-level networking concepts and system programming.
 
 ## 💡 Features
